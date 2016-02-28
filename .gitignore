@@ -1,4 +1,4 @@
 # Ignoro tutto quello che viene generato da lilypond (pdf, midi, musicxml)
 *.pdf
-*.mid
+*.mid*
 *.xml
