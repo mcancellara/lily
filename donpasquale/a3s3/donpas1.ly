@@ -514,7 +514,7 @@ tenornotesa = \relative c' {
     b b4 |
     R4.*6 |
     fs'8  fs8 fs8  | % 25
-    gs8  g,8  r8 | % 26
+    g8  g,8  r8 | % 26
     R4.*10 | % 36
     cs8  cs8 cs8  | % 37
     cs8 cs4 | % 38
